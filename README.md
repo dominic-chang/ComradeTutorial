@@ -1,3 +1,5 @@
+# April 4th 2023 Comrade Tutorial
+
 This is a tutorial for Comrade.jl that was carried out at the BHI on April 4th 2023.
 The tutorial is done assuming that you are running all of the files in the directory that the setup_environment.sh script was sourced. 
 
