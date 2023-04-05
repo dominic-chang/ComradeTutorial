@@ -10,6 +10,7 @@ pkgs = [
     PackageSpec("Comrade"),
     PackageSpec("ComradeAHMC"),
     PackageSpec("ComradeOptimization"),
+    PackageSpec("OptimizationBBO"),
     PackageSpec("Distributions"),
     PackageSpec("DistributionsAD"),
     PackageSpec("OptimizationOptimJL"),
