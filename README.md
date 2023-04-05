@@ -11,4 +11,4 @@ This tutorial uses `juliaup` to set up Julia, which assumes that you do not alre
 2. Test installation with `julia test_installation.jl`
 
 
-(Video to Zoom Recording)[https://harvard.zoom.us/rec/share/HgCyowprMplNs6cRw-3haU8wZ-W8UcjYMXzRlo8J-Un8Lq_XmMF3Wrmjt5rF_6dj.hOMHEuEF3x1iNcGP?startTime=1680632590000]
+[Video to Zoom Recording](https://harvard.zoom.us/rec/share/HgCyowprMplNs6cRw-3haU8wZ-W8UcjYMXzRlo8J-Un8Lq_XmMF3Wrmjt5rF_6dj.hOMHEuEF3x1iNcGP?startTime=1680632590000)
