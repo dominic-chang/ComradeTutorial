@@ -18,6 +18,7 @@ pkgs = [
     PackageSpec("AxisKeys"),
     PackageSpec("StableRNGs"),
     PackageSpec("VLBIImagePriors"),
+    PackageSpec("Pyehtim"),
     PackageSpec("ForwardDiff"),
     PackageSpec(url="https://github.com/dchang10/FastElliptic.git"),
     PackageSpec(url="https://github.com/dchang10/Jube.git"),
