@@ -1,9 +1,8 @@
 import Pkg;
 Pkg.activate((@__DIR__));
 using Comrade
+using Pyehtim
 using Plots
-using PythonPlot
-
 
 gauss = stretched(Gaussian(), μas2rad(10), μas2rad(10)) # Make a  10 μas Gaussian
 mring = smoothed(stretched(MRing([0.5, 0.1], [0.0, 0.2]), μas2rad(20), μas2rad(20)), μas2rad(5)) # Make a MRing 
@@ -19,8 +18,5 @@ Comrade.save(fits_file, img) #Save image as fits file
 
 
 
-load_ehtim() #Load EHTimaging using PythonCall. EHTimaging can be accessed with the variable name ehtim
 
 inimg = ehtim.image.load_fits(fits_file)
-inimg.display()
-readline()
